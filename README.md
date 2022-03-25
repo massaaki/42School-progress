@@ -1,6 +1,6 @@
 # École 42 | My Progress
 
-## Basecamp - Done
+## Basecamp ✅ 
 - [C00](https://github.com/massaaki/ft_basecamp_c00) - 58/100
 - [C01](https://github.com/massaaki/ft_basecamp_c01) - 100/100
 - [C02](https://github.com/massaaki/ft_basecamp_c02) - 65/100
@@ -11,6 +11,8 @@
 - [C07](https://github.com/massaaki/ft_basecamp_c07) - 60/100
 
 ## Phase #01
+- [Libft](https://github.com/massaaki/libft) - 108/100
+- [GetNextLine](https://github.com/massaaki/ft_phase01-get_next_line) - in progress
 
 ## Phase #02
 
