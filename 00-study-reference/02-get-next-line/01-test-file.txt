@@ -1,0 +1,4 @@
+Hello world
+This is my first test using read
+This is the second line
+And this is the last line
