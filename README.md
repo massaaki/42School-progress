@@ -1,4 +1,6 @@
-# École 42 | My Progress
+# École 42 | Progress
+
+<br> 
 
 ## Basecamp ✅ 
 - [C00](https://github.com/massaaki/ft_basecamp_c00) - 58/100
@@ -10,10 +12,21 @@
 - [C06](https://github.com/massaaki/ft_basecamp_c06) - 70/100
 - [C07](https://github.com/massaaki/ft_basecamp_c07) - 60/100
 
+<br> 
+
 ## Phase #01
 - [Libft](https://github.com/massaaki/libft) - 108/100
 - [GetNextLine](https://github.com/massaaki/ft_phase01-get_next_line) - in progress
 
+<br> 
+
 ## Phase #02
 
+<br> 
+
 ## Phase #03
+
+<br> 
+
+# Utils
+- [Valgrind memory leak test environment](https://github.com/massaaki/Memory-leak-check-environment)
