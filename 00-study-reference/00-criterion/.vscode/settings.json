@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "memory.h": "c",
+    "criterion.h": "c"
+  }
+}
