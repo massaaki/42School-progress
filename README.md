@@ -1,4 +1,12 @@
-# École 42 | Progress
+<p align="center">
+<img width="320px" src="./images/42sp.webp"/>
+</p>
+
+
+<h1 align="center">42 School | Progress</h1>
+<p align="center"><a href="https://www.42sp.org.br/">Official Site</a></p>
+
+
 
 <br> 
 
