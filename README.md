@@ -16,7 +16,8 @@
 
 ## Phase #01
 - [Libft](https://github.com/massaaki/libft) - 108/100
-- [GetNextLine](https://github.com/massaaki/ft_phase01-get_next_line) - in progress
+- [GetNextLine](https://github.com/massaaki/ft_phase01-get_next_line) - 125/100
+- [ft_printf](https://github.com/massaaki/ft_phase01-printf) - in progress
 
 <br> 
 
